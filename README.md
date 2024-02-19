@@ -2,7 +2,7 @@
 
 This repository contains weekly homework assignments for the n11 Talenthub Backend Bootcamp provided by Patika.dev.
 
-## List of Homeworks
+## List of Projects
 
-### Homework - 01
+### Project - 01
 - [Project 1](RealEstateManagementSystem/README.md): Description of RealEstateManagementSystem project.
