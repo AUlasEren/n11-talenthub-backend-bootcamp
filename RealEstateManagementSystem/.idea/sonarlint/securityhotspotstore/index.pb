@@ -15,3 +15,5 @@ c
 3src/main/java/com/ulas/service/PropertyService.java,3\b\3bcbc0b5dfcc530b070415b8ac1a0a630c62ccdf
 [
 +src/main/java/com/ulas/entity/Property.java,7\1\7101c68690fad057f046be3dfa9351c351a38cc4
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
