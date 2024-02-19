@@ -5,4 +5,4 @@ This repository contains weekly homework assignments for the n11 Talenthub Backe
 ## List of Homeworks
 
 ### Homework - 01
-- [Homework 01](RealEstateManagementSystem/README.md): Description of Homework 01 project.
+- [Project 1](RealEstateManagementSystem/README.md): Description of Homework 01 project.
