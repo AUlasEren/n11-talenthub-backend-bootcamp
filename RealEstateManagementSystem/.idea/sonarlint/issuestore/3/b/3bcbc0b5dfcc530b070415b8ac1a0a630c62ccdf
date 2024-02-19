@@ -1,0 +1,9 @@
+
+o
+java:S6204 "RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8¼–´›Ü1
+T
+java:S1128"2Remove this unused import 'com.ulas.entity.House'.(˜ö¢‰ûÿÿÿÿ8âœÚ›Ü1
+U
+java:S1128"8Remove this unused import 'com.ulas.entity.SummerHouse'.(‹õúğ8âœÚ›Ü1
+T
+java:S1128"2Remove this unused import 'com.ulas.entity.Villa'.(ûÆÕáıÿÿÿÿ8ãœÚ›Ü1
