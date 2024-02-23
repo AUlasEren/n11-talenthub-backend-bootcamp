@@ -8,11 +8,17 @@ public class Customer {
     private String name;
     private List<Order> orders;
     private LocalDate registrationDate;
+    private String sector;
 
-    public Customer(String name, LocalDate registrationDate) {
+    public Customer(String name, LocalDate registrationDate, String sector) {
         this.name = name;
         this.orders = new ArrayList<>();
         this.registrationDate = registrationDate;
+        this.sector = sector;
+    }
+
+    public String getSector() {
+        return sector;
     }
 
     public void addOrder(Order order) {
