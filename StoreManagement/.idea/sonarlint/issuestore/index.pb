@@ -13,3 +13,13 @@ Z
 +src/main/java/com/ulas/entity/Customer.java,8\9\89f97c7ec9edbe91870301896d83851c976c3692
 9
 	ReadME.md,d\1\d1ff639aab437b4ee1416e88891505e1104dcef7
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+[
++src/main/java/com/ulas/entity/Pricable.java,2\9\29de80b6a0cdc4d26171cd631a64378146c8d95c
+Y
+)src/main/java/com/ulas/entity/Entity.java,3\a\3adfcaa16464b0842d56cec69739f6b062a0fbb9
+`
+0src/main/java/com/ulas/entity/impl/Pricable.java,8\2\82c3ddbc3f40ccdb797bf44a1bfd9f43f1c291cd
+^
+.src/main/java/com/ulas/entity/impl/Entity.java,3\e\3ebdead62a0ecfa7529c59d7ea63ec32686eda21

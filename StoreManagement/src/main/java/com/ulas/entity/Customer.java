@@ -1,10 +1,12 @@
 package com.ulas.entity;
 
+import com.ulas.entity.impl.Entity;
+
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Customer {
+public class Customer extends Entity {
     private String name;
     private List<Order> orders;
     private LocalDate registrationDate;

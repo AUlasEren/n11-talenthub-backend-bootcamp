@@ -1,10 +1,13 @@
 package com.ulas.entity;
 
+import com.ulas.entity.impl.Entity;
+import com.ulas.entity.impl.Pricable;
+
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Order {
+public class Order extends Entity implements Pricable {
     private List<Product> products;
     private LocalDate orderDate;
 
@@ -30,5 +33,10 @@ public class Order {
     }
     public double calculateTotalPrice() {
         return products.stream().mapToDouble(Product::getPrice).sum();
+    }
+
+    @Override
+    public double getPrice() {
+        return calculateTotalPrice();
     }
 }

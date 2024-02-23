@@ -1,17 +1,19 @@
 package com.ulas.entity;
 
-public class Invoice {
-    private Order order;
+import com.ulas.entity.impl.Pricable;
 
-    public Invoice(Order order) {
-        this.order = order;
+public class Invoice {
+    private Pricable pricableItem;
+
+    public Invoice(Pricable pricableItem) {
+        this.pricableItem = pricableItem;
     }
 
-    public Order getOrder() {
-        return order;
+    public Pricable getPricableItem() {
+        return pricableItem;
     }
 
     public double getTotalPrice() {
-        return order.getProducts().stream().mapToDouble(Product::getPrice).sum();
+        return pricableItem.getPrice();
     }
 }
