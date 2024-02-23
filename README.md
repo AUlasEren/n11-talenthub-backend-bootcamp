@@ -6,3 +6,4 @@ This repository contains weekly project assignments for the n11 Talenthub Backen
 
 ### Project - 01
 - [Project 1](RealEstateManagementSystem/README.md): Description of RealEstateManagementSystem project.
+- [Project 2](StoreManagement/README.md): Description of RealEstateManagementSystem project.
