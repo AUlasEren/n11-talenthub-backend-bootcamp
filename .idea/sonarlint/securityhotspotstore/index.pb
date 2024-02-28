@@ -5,3 +5,15 @@ T
 $RealEstateManagementSystem/README.md,7\6\76172c532648059b92a1909a5047b11da00d2d00
 k
 ;RealEstateManagementSystem/src/main/java/com/ulas/Main.java,3\6\361985b259ab554616b9da51a8a9526d96d813ef
+k
+;StoreManagement/src/main/java/com/ulas/entity/Customer.java,f\0\f03b816a7ab8f979429a2aa47d13524d079fb748
+j
+:StoreManagement/src/main/java/com/ulas/entity/Invoice.java,e\b\eb2556283c69a2075c1708d3a3eb874ab51fe1f2
+j
+:StoreManagement/src/main/java/com/ulas/entity/Product.java,3\a\3a491148f7f8c00226b722368d2344592b06033e
+h
+8StoreManagement/src/main/java/com/ulas/entity/Order.java,d\a\da5c4ed1957341b191629b52d73bda3328eb932a
+`
+0StoreManagement/src/main/java/com/ulas/Main.java,f\3\f3d08b7d1a75049658050fad0db0184f1a061b53
+I
+StoreManagement/README.md,4\1\41d899b55478ba172b9e8220d7e4301a1db17e20
