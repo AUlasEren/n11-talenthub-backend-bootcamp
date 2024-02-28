@@ -32,7 +32,7 @@ The application includes a comprehensive suite of tests:
 1. Clone the repository: `git clone <repository-url>`
 2. Open the project in your preferred IDE.
 3. Ensure Java 17 or above is installed.
-4. Configure application properties as required (e.g., API keys, database settings).
+4. Configure application properties as required (e.g., API keys, database settings). API keys should be stored as environment variables and referenced in the application properties file as `${ENV_VAR}`.
 5. Run the application using your IDE or command line: `mvn spring-boot:run`
 
 ## Usage
